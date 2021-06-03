@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A relation of a fight in the county of Lincoln, between the Kings forces, and the rebells of that county Which happened upon the eleventh day of Aprill, anno Domini, 1643. Neere Ancaster. And was presented to Her Majesty at Yorke, Aprill 13. Together with the subscription of those gentlemen whose names follow at the end of the relation.</title>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92349</idno><idno type="EEBO-CITATION">99895928</idno>
+  <idno type="VID">153516</idno>
+  <idno type="EEBO-PROQUEST">2240919937</idno>
+  
+            <idno type="STC">Wing R786A</idno>
+            <idno type="STC">ESTC R230154</idno>
+            <idno type="PROQUEST">99895928</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99895928e"/>
+            <note>(EEBO-TCP ; phase 2, no. A92349)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153516)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2368:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A relation of a fight in the county of Lincoln, between the Kings forces, and the rebells of that county Which happened upon the eleventh day of Aprill, anno Domini, 1643. Neere Ancaster. And was presented to Her Majesty at Yorke, Aprill 13. Together with the subscription of those gentlemen whose names follow at the end of the relation.</title>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed at York by Stephen Bulkley,</publisher>
+                  <pubPlace>[York] :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Below imprint: By speciall command.</note>
+                  <note>Identified as Wing R786A, reel 2368, of the UMI microfilm set "Early English books 1641-1700".</note>
+                  <note>Cf. Wing R786A which has "Lincolne" in the title.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library, Washington, D.C..</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">Linconshire (England) --  Politics and government --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:153516:1"/>
+            <pb facs="tcp:153516:1"/>
+            <p>A RELATION Of a Fight in the <hi>County</hi> of LINCOLN, BETWEEN The KINGS Forces, and the <hi>Rebells</hi> of that <hi>County.</hi>
+            </p>
+            <p>Which happened upon the eleventh Day of <hi>Aprill, Anno Domini,</hi> 1643. Neere <hi>Ancaster.</hi>
+            </p>
+            <p>And was presented to Her <hi>Majesty</hi> at <hi>Yorke, Aprill</hi> 13.</p>
+            <p>Together with the Subscription of those Gentlemen whose Names follow at the end of the Relation.</p>
+            <p>Printed at <hi>York</hi> by <hi>Stephen Bulkley,</hi> 1643.</p>
+            <p>
+               <hi>By speciall Command.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:153516:2"/>
+            <pb n="3" facs="tcp:153516:2"/>
+            <head>A Relation of a Fight in the County of <hi>Lincolne,</hi> between the Kings Forces, and <hi>the Rebells of that County,</hi> &amp;c.</head>
+            <p>HIs Majesties Commissioners for the County of <hi>Lincolne,</hi> lying in the Garrison at <hi>Newarke,</hi> raised some Forces both Horse and Foot, and making Incursions into their own Country, and finding the Inhabitants well inclined to the King and His Government, resolved to March thither; and by Vertue of His Majesties Com<g ref="char:EOLhyphen"/>mission of <hi>Oyer</hi> and <hi>Terminer,</hi> appointed a Ses<g ref="char:EOLhyphen"/>sions to be held at <hi>Grantham</hi> upon the said eleventh Day of <hi>Aprill;</hi> They Marched out of <hi>Newarke</hi> upon the fourth Day of <hi>Aprill</hi> afore<g ref="char:EOLhyphen"/>said, with nine Troops of Horse, and about 160 <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oot, through the parts of <hi>Kesteven,</hi> to <hi>Stam<g ref="char:EOLhyphen"/>ford,</hi> and back again to <hi>Grantham,</hi> on Munday the tenth of <hi>Aprill.</hi> The Country cheerefully
+<pb n="4" facs="tcp:153516:3"/>appeared, and brought in such Arms as the R<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>bels had left unplundered: At <hi>Grantham</hi> t<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Commissioners held the Sessions according<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> appointment; but at eleven of the Clock<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> the forenoone, in the midst of that service, A<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>vertisement was given of the Enemies a<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>proach. Whereupon Colonell <hi>Cavendish,</hi> w<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> commanded in chief all the Kings Forces, dre<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> them out into a body neer the Town, an<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> found the Enemy (consisting of about 80<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Horse, and 200 Dragoners) placed within half a Mile of the Town, but on the contrary sid<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> of the River. The Rebels Forces were co<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>manded by young <hi>Hotham,</hi> Sir <hi>John Hothan</hi> Sonne, who is now Generall over the Rebels i<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <hi>Lincolnshire.</hi> The Colonell first drew up h<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Forces in sight of the Rebels, and for about a<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Houre they faced each other (the River bein<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> between;) But the Rebels not advancing, th<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Colonell having appointed one Troope t<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> guard an other end of the Towne (in case th<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Rebels should have had some other strengt<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> to have joyned with them from other part<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> and leaving two other Troops to face the En<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> my, that they might not perceive his Marc<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> with his other Troops, Marcht with the rest<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb n="5" facs="tcp:153516:3"/>his Horse and Foot over a Bridge halfe a Mile from thence, and with a speedy March, came close up to the Enemy, who had placed them<g ref="char:EOLhyphen"/>selves in a Lane, and among Hedges, which they lyned with Dragoneers: The Colonell then made a little stand, untill his Foot drew neere the Enemy: Upon a little Skirmish, they retreated a little further. The Colonell pur<g ref="char:EOLhyphen"/>sued, whereupon the Enemy again made a stand, and faced the Kings Forces; the Colo<g ref="char:EOLhyphen"/>nell advancing with his Foot, they retreated about four Miles, their Foot being horsed, and the Kings wanting Horses; the Collonell still endeavouring what he could, to draw up his Foot with his Horse, the Enemyes strength of Horse and Dragoneers being greater then the Kings Horse. But the Colonell finding the Enemie not willing to fight, and the Kings Foot not able to March, left the Foot, and re<g ref="char:EOLhyphen"/>solved to charge the Enemie with the Horse alone, and upon the Heath near <hi>Ancaster</hi> Town being five Miles from <hi>Grantham,</hi> commanded his Horse to charge the Enemy, who there had made a Hault, and put themselves in Battalia, having divided their Horse into three Divisi<g ref="char:EOLhyphen"/>ons, and dismounted the Dragoneers: The
+<pb n="6" facs="tcp:153516:4"/>Colonell having likewise divided His Horse, at once, charged the Enemy both Horse and Dragoneers, the Dragoneers all gave fire, and and slew three and hurt some few of the Kings Forces, but were instantly routed; whereupon they threw down their Arms and prayed Quarter, which was granted. Young <hi>Hotham</hi> their Generall, and all their Horse, betook themselves to flight. The Kings Forces pur<g ref="char:EOLhyphen"/>sued them two Miles upon <hi>Ancaster</hi> Heath, and then the Colonell drew most of them in<g ref="char:EOLhyphen"/>to a Body again, and afterwads pursued them eight Miles further, slew and took Prisoners div<gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>s of them in the chase, and totally routed the whole Body. The Prisoners of the Re<g ref="char:EOLhyphen"/>bells taken are two Captaines, five or six Lieutenants and Ensignes, five Cornets of Horse, and one of Dragoneers, the rest were beholden to their swift Horses for their escape. Of common Souldiers, two hundred and eighty Prisoners were taken. There was in the Field amongst the Rebells, the Lord <hi>Willoughbie</hi> of <hi>Parham,</hi> who often was heard to demand Quarter, and once to <hi>Griffith</hi> his Lieutenant, with this new Generall <hi>Ho<g ref="char:EOLhyphen"/>tham,</hi> who came into <hi>Lincolnshire</hi> but the
+<pb n="7" facs="tcp:153516:4"/>Night before, with foure Troops of Horse, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>nd about two hundred Foot out of <hi>Yorke<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>hire,</hi> which they call Gray-Coates, an hun<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>red of which was taken, and most hurt. The Intent of the Rebels, was to surprise the Town of <hi>Grantham,</hi> and to have taken Priso<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ers the Kings Commissioners sitting at the <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>essions, which (as the Prisoners now taken <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ffirm) Generall <hi>Hotham</hi> undertooke to per<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>orm.</p>
+            <closer>
+               <signed>Subscribed by these Gentlemen, <hi>viz.</hi>
+                  <list>
+                     <item>
+                        <hi>
+                           <gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>. Cavendish.</hi>
+                     </item>
+                     <item>
+                        <hi>Edw. Heron,</hi> vice com.</item>
+                     <item>
+                        <hi>Edward Middlemore.</hi>
+                     </item>
+                     <item>
+                        <hi>Robert Tredray.</hi>
+                     </item>
+                     <item>
+                        <hi>Wil: Thorold.</hi>
+                     </item>
+                     <item>
+                        <hi>J. Brooke.</hi>
+                     </item>
+                     <item>
+                        <hi>Ger: Nevile.</hi>
+                     </item>
+                     <item>
+                        <hi>Charles Dalison.</hi>
+                     </item>
+                     <item>
+                        <hi>Edm: Thorold.</hi>
+                     </item>
+                     <item>
+                        <hi>Edw: Tourney.</hi>
+                     </item>
+                     <item>
+                        <hi>Tho: Harington.</hi>
+                     </item>
+                  </list>
+               </signed>
+               <dateline>
+                  <hi>Grantham</hi>
+                  <date>this 12. of <hi>Aprill,</hi> 1643.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:153516:5"/>
+            <pb facs="tcp:153516:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
